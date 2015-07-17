@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MicroClickBeauty.iml" filepath="$PROJECT_DIR$/MicroClickBeauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drag-sort-listview/drag-sort-listview.iml" filepath="$PROJECT_DIR$/drag-sort-listview/drag-sort-listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagelaoder/imagelaoder.iml" filepath="$PROJECT_DIR$/imagelaoder/imagelaoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshlibrary/pulltorefreshlibrary.iml" filepath="$PROJECT_DIR$/pulltorefreshlibrary/pulltorefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiny-framework/tiny-framework.iml" filepath="$PROJECT_DIR$/tiny-framework/tiny-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinyUiLibrary/tinyUiLibrary.iml" filepath="$PROJECT_DIR$/tinyUiLibrary/tinyUiLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheeltimepicker/wheeltimepicker.iml" filepath="$PROJECT_DIR$/wheeltimepicker/wheeltimepicker.iml" />
+    </modules>
+  </component>
+</project>

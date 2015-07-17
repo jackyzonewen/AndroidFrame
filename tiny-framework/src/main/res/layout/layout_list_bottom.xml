@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wheel="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <com.tiny.framework.view.ProgressWheel
+        android:id="@+id/pb_loadingview"
+        wheel:matProg_barColor="?attr/colorPrimary"
+        wheel:matProg_progressIndeterminate="true"
+        wheel:matProg_rimColor="@color/light_gray_transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txt_loadingview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:padding="@dimen/dimen_text_samll"
+        android:text="@string/_loading"
+         />
+
+</LinearLayout>

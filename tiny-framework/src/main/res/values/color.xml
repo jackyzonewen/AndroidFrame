@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="main_color">#ff3333</color>
+    <color name="main_color_dark">#b60109</color>
+    <color name="theme_window_background">#ECECEC</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="window_background_light">#dddddd</color>
+    <color name="window_background_dark">#353535</color>
+    <color name="sd">#80ffffff</color>
+
+</resources>

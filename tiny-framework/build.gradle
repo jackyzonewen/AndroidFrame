@@ -1,0 +1,29 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    //    compile fileTree(dir: 'libs', include: ['*.jar'])
+    //    compile files('libs/imageloader.jar')
+    compile project(':pulltorefreshlibrary')
+    compile 'com.android.support:appcompat-v7:22.1.1'
+    compile 'com.android.support:support-v4:22.1.1'
+    compile 'com.android.support:recyclerview-v7:22.1.1'
+    compile files('libs/fastjson-1.1.38.jar')
+//    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.3.1'
+//    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.3.1'
+}

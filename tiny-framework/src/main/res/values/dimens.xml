@@ -1,0 +1,41 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tool_bar_top_padding">0dp</dimen>
+
+    <dimen name="dimen_big">48dp</dimen>
+    <dimen name="dimen_xxxlarge">32dp</dimen>
+    <dimen name="dimen_xxlarge">24dp</dimen>
+    <dimen name="dimen_xlarge">20dp</dimen>
+    <dimen name="dimen_large">16dp</dimen>
+    <dimen name="dimen_3x">24dp</dimen>
+    <dimen name="dimen_4x">32dp</dimen>
+    <dimen name="dimen_6x">48dp</dimen>
+    <dimen name="dimen_8x">64dp</dimen>
+
+    <dimen name="dimen_medium">12dp</dimen>
+    <dimen name="dimen_small">8dp</dimen>
+    <dimen name="dimen_tiny">4dp</dimen>
+    <dimen name="dimen_text_samll">12sp</dimen>
+    <dimen name="dimen_text_default">14sp</dimen>
+    <dimen name="dimen_text_medium">16sp</dimen>
+    <dimen name="dimen_text_large">18sp</dimen>
+    <dimen name="dimen_text_xlarge">20sp</dimen>
+    <dimen name="dimen_text_xxlarge">22sp</dimen>
+    <dimen name="img_size_small">32dip</dimen>
+    <dimen name="img_size_medium">40dip</dimen>
+    <dimen name="img_size_large">48dip</dimen>
+    <dimen name="img_size_xlarge">64dip</dimen>
+    <dimen name="img_size_xxlarge">96dip</dimen>
+
+    <integer name="config_shortAnimTime">200</integer>
+    <integer name="config_mediumAnimTime">400</integer>
+    <integer name="config_longAnimTime">500</integer>
+
+    <dimen name="divider_height_samll">1px</dimen>
+
+    <dimen name="size_progressbar">40dp</dimen>
+
+    <dimen name="navigation_drawer_width">304dp</dimen>
+</resources>

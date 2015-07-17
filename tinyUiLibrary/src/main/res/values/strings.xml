@@ -1,0 +1,17 @@
+<resources>
+
+
+    <string name="open_camera_error">打开相机失败</string>
+    <string name="create_temp_file_error">创建临时文件失败</string>
+    <string name="_sure">确定</string>
+    <string name="_cancle">取消</string>
+
+
+
+    <!--image_selector!-->
+
+    <string name="take_photo">拍摄照片</string>
+    <string name="multi_picture">图片</string>
+    <!--image_selector!-->
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Transparent_Dialog" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="common_divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/light_gray</item>
+        <item name="android:layout_height">@dimen/divider_height_samll</item>
+    </style>
+    <style name="common_divider_vertical">
+        <item name="android:layout_width">1px</item>
+        <item name="android:background">@color/light_gray</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="common_divider2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/sky_gray</item>
+        <item name="android:layout_height">@dimen/divider_height_samll</item>
+    </style>
+</resources>

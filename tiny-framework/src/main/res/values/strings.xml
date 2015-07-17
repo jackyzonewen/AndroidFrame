@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TinyFrameWork</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="action_dialog">show dialog</string>
+    <string name="_loading">加载中</string>
+    <string name="loading_finish">数据加载完成</string>
+    <string name="loading_over">已无更多数据</string>
+
+</resources>

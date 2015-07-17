@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_bg_tab"
+    android:gravity="center"
+    android:id="@+id/tab_text"
+    android:minHeight="32dp"
+    android:orientation="vertical"
+    android:text="消息"
+    android:textColor="@drawable/selector_color_tab">
+
+</TextView>

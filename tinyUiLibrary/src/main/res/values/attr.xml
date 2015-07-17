@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TabLayout-->
+    <declare-styleable name="TabLayout">
+        <attr name="indicatorColor" format="color"></attr>
+        <attr name="indicatorMargin" format="dimension"></attr>
+        <attr name="indicatorHeight" format="dimension"></attr>
+        <attr name="tabWidth" format="dimension"></attr>
+        <attr name="textLayout" format="reference"></attr>
+    </declare-styleable>
+    <!--TabLayout-->
+
+
+    <!--ThumbnailGrid-->
+    <declare-styleable name="ThumbnailGrid">
+        <attr name="thumbnailWidth" format="dimension"></attr>
+        <attr name="thumbnailHeight" format="dimension"></attr>
+        <attr name="thumbnailMargin" format="dimension"></attr>
+        <attr name="thumbnailBackground" format="reference"></attr>
+    </declare-styleable>
+    <!--ThumbnailGrid-->
+
+    <declare-styleable name="NumberPickView">
+        <attr name="left_src" format="reference|color"></attr>
+        <attr name="right_src" format="reference|color"></attr>
+        <attr name="left_bg" format="reference|color"></attr>
+        <attr name="right_bg" format="reference|color"></attr>
+        <attr name="numberView" format="reference"></attr>
+
+
+    </declare-styleable>
+
+
+</resources>

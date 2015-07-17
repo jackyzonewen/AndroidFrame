@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="drawer" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="base_swipeLayout" type="id"/>
+
+
+
+    <item name="base_adapter_view" type="id"/>
+    <item name="base_ptl_list" type="id"/>
+    <item name="view_progressing" type="id"/>
+    <item name="root_view_list" type="id"/>
+
+    <item name="recycler_view" type="id"/>
+    <item name="empty_view" type="id"/>
+    <item name="draw_layout" type="id"/>
+    <item name="error_view" type="id"/>
+
+    <item name="root_clickable_view" type="id"></item>
+</resources>

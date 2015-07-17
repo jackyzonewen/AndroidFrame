@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/window_background_light</item>
+
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="toolbarStyle">@style/Widget.AppCompat.Toolbar.While.Title</item>
+
+    </style>
+
+
+     //arrow颜色
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+
+    //toolbar title颜色
+    <style name="Widget.AppCompat.Toolbar.While.Title" parent="Widget.AppCompat.Toolbar">
+        <item name="titleTextAppearance">@style/TextAppearance.AppCompat.White.Title</item>
+
+    </style>
+    <style name="TextAppearance.AppCompat.White.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@android:color/white</item>
+
+    </style>
+
+
+    <style name="AppTheme" parent="BaseTheme"/>
+
+    <style name="AppTheme_NavigationDrawerActivity" parent="BaseTheme" />
+    <style name="AppTheme_NoActionBar" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_light">#22292c</color>
+    <color name="color_disable_white">#99ba91</color>
+    <color name="back_disable_green">#347523</color>
+    <color name="back_enable_green">#45c01a</color>
+    <color name="thumb_default_back">#cccccc</color>
+
+    <!--image_selector!-->
+    <color name="back_display_view">#1f1f1f</color>
+    <color name="multi_black">#000000</color>
+    <!--image_selector!-->
+
+</resources>

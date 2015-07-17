@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/multi_black"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:background="@color/back_display_view"
+        android:layout_margin="2dp"
+        android:layout_height="match_parent"></FrameLayout>
+    <TextView
+        android:layout_gravity="center"
+        android:textSize="14sp"
+        android:drawableTop="@drawable/multi_image_camera_gray"
+        android:textColor="@color/cream_white"
+        android:layout_width="wrap_content"
+        android:text="@string/take_photo"
+        android:drawablePadding="@dimen/dimen_small"
+        android:layout_height="wrap_content" />
+
+</FrameLayout>
